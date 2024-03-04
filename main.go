@@ -6,7 +6,7 @@ import (
 
 func main() {
 	const Width = 600
-	const Height = 400
+	const Height = 40
 
 	// set up objects
 	room := Room{X: 50, Y: 50, Width: 500, Height: 300}
